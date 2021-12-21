@@ -1,5 +1,5 @@
 # FAF.CS16.1 Fall 2021
-## Lab 7: Database security
+## Lab 8: Database security
 ### Table of contents
 * [Introduction](#introduction)
 * [Laboratory Tasks](#lab-tasks)
